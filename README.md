@@ -1,6 +1,3 @@
-# RESUME
-
-
 ## Summary
 
 Google developer expert (GDE) for GCP, conference speaker, certified Kubernetes CKA/CKAD, university guest lecturer.
@@ -9,22 +6,28 @@ Serverless first mindset, data operation and data engineering.<br/>
 Used many programming languages: JavaScript (Node.js + browser), Go, Java, Python, Bash, Clojure, ClojureScript, Scala, OCaml, Rust and Haskell. Fast learner.<br/>
 Like building scalable distributed systems.<br/>
 Design, architect, develop, deploy, operate, maintain and monitor software.<br/>
-Achievements: [KubeCon 18' Seattle speaker](https://youtube.com/watch?v=ukc5mvZkxDI), University guest lecturer, [open source contributor](https://github.com/veggiemonk). More at [bisconti.cloud](https://bisconti.cloud)<br/>
+Achievements: [KubeCon 18' Seattle speaker](https://youtube.com/watch?v=ukc5mvZkxDI), University guest lecturer, [open source contributor](https://github.com/veggiemonk/awesome-docker).<br/>
 __Work remotely__ (good writing communication skill).
+
 
 
 ## Work
 
+### Embark Studios 🇸🇪| Infrastructure Engineer for Machine Learning
+
+__August 2020 - Present | Stockholm, Sweden__
+
+Machine learning and game development, that's all I'm allowed to say at this point.
+
 ### KTH Royal Institute of Technology 🇸🇪| Guest lecturer
 
-__Apr 2019 – Present (1 yr 4 months) | Stockholm, Sweden__
+__Apr 2019 – Present (1 yr 6 months) | Stockholm, Sweden__
 
 Topics:
 
 - containers (Docker, CRI)
 - orchestration (Kubernetes, swarm)
 - serverless & FaaS
-
 
 ### NetEnt 🇸🇪| Site Reliability Engineer
 
@@ -51,8 +54,6 @@ Migration from Python 2 to Python 3 of full stack Flask app<br/>
 Presentations and workshop dedicated to Terraform, 
 Kubernetes, Go, serverless, service mesh and site reliability engineering.
 
-<div class="divider-hr-small divider-hr-transparent-small divider-hr-stop"></div>
-
 ### 56K.Cloud 🇨🇭| Site Reliability Engineer
 
 __Nov 2018 – Mar 2019 (5 months) | Zurich, Switzerland__ (Remote)
@@ -65,7 +66,6 @@ Setting up kubernetes clusters<br/>
 Giving workshops<br/>
 Presenting and teaching DevOps and Chaos Engineering.
 
-<div class="divider-hr-small divider-hr-transparent-small divider-hr-stop"></div>
 
 ### Discovery Inc 🇸🇪| Software Engineer
 
@@ -88,8 +88,6 @@ Logs gather with ELK stack. Metrics with Prometheus.
 
 Database migration from Redis to PostgreSQL:
 Live migration (no downtime) from Redis to PostgreSQL using jsonB. 
-
-<div class="divider-hr-small divider-hr-transparent-small divider-hr-stop"></div>
 
 ### Unity Technologies Finland 🇫🇮| Software Engineer
 
@@ -119,15 +117,12 @@ Technical recruiter: Part of the recruitment process, review technical tests, co
 
 Give presentations to teams
 
-<div class="divider-hr-small divider-hr-transparent-small divider-hr-stop"></div>
-
 ### Freelance 🇹🇭| Software Engineer
 
 __2016 – Dec 2016 (5 mos) | Chiand Mai, Thailand__ (Remote)
 
 Full stack web development in Clojure and ClojureScript using PostgreSQL as database. Part of the project can be found on my github account https://github.com/veggiemonk/guestbook.
 
-<div class="divider-hr-small divider-hr-transparent-small divider-hr-stop"></div>
 
 ### Group S 🇧🇪| Software Engineer
 
@@ -248,6 +243,10 @@ University of Namur, Belgium - https://www.unamur.be/
 
 For Google Cloud Platform - [Credentials](https://developers.google.com/community/experts/directory/profile/profile-julien_bisconti)
 
+### Google Cloud Professional Data Engineer
+
+Issue by Google - [Credentials](https://www.credential.net/0d0e4f30-ee77-4086-bb10-9836e001e1dd)
+
 ### Certified Kubernetes Administrator (CKA)
 
 Issued by the Linux Foundation - [Credentials](https://www.youracclaim.com/badges/af8fcf6a-444d-458d-9cab-618c92e4a813)
@@ -255,6 +254,3 @@ Issued by the Linux Foundation - [Credentials](https://www.youracclaim.com/badge
 ### Certified Kubernetes Application Developer (CKAD)
 
 Issued by the Linux Foundation - [Credentials](https://www.youracclaim.com/badges/025df104-a24d-4462-8bbf-150e533d2a54)
-
-
-
